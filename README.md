@@ -25,3 +25,4 @@ Things you may want to cover:
 "# ruby-on-rails-ecommerce" 
 "# ruby-on-rails-api-ecommerce" 
 "# ruby-on-rails-ecommerce-api" 
+"# ruby-product-api" 
